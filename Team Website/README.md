@@ -14,14 +14,6 @@ Hackathon Organised in GNDEC College. Various JavaScript Projects
 
 > Tap login to login if you are an existing user.
 
-* Sign up (For new users)
-
-> New user can create their account by clicking on sign up botton.
-
-> Enter required details and click sign up.
-
-> Your account will be created. Now you can login using your username and password on sign in page.
-
 * Using Budget Calculator
 
 > Once logged in you will be redirected to the calculator page. Calculator can also be used without logging in.
@@ -32,7 +24,7 @@ Hackathon Organised in GNDEC College. Various JavaScript Projects
 
 > On addition of each input on Income or expense option the calculator will make real time changes in the overall value.
 
-> At end when you have added all your incomes and expenses final amount of income and expense will be displayed.
+> At end when you have added all your incomes and expenses final amount of income and expense will be displayed with the monthly budget amount.
 
 * Additional feature
 
