@@ -114,8 +114,9 @@ if ($fetch_num >=1)
 else
 {
 	echo "Wrong Credetials";
+ 
+   header('Location: ../index.html');
 }
-
 
 }
 ?>
