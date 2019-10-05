@@ -65,7 +65,7 @@ if ($conn) {
             </div>
 
             <div>
-              <a href="../Budget App/Budget_HTML.html" class="txt1">
+              <a href="../Budget_App/Budget_HTML.html" class="txt1">
                 Skip SIGN IN...
               </a>
             </div>
